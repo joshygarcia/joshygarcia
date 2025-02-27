@@ -17,6 +17,6 @@ I'm a **Computer Science major** with a strong focus on **Web Development** and 
 - **Content Creation Tools:** Adobe Photoshop, Premiere Pro, After Effects
 
 ## 📫 Connect with Me
-- 🌐 **Portfolio:** [joshygarcia](joshygarcia.com)
+- 🌐 **Portfolio:** [joshygarcia](https://joshygarcia.com)
 - 🔗 **LinkedIn:** [joshygarcia](https://linkedin.com/in/joshygarcia)
 - ✉️ **Email:** joshygm@outlook.com
