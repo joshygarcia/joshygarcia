@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Joshy Garcia
 
-<!--
-**joshygarcia/joshygarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a **Computer Science major** with a strong focus on **Web Development** and a passion for **technology, business, and content creation**. I have experience building websites, managing projects, and working with various technologies to create efficient and scalable solutions.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 🖥️ **Front-End and Full-Stack Web Development**
+- 📱 **Building Digital Apps & Tools**
+- 🎬 **Content Creation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, HTML, CSS, SQL
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, Supabase
+- **Databases:** SupaBase, MySQL
+- **Tools & Platforms:** Git, GitHub, Vercel, AWS, Firebase, ADB
+- **Content Creation Tools:** Adobe Photoshop, Premiere Pro, After Effects
+
+## 📫 Connect with Me
+- 🌐 **Portfolio:** [joshygarcia](joshygarcia.com)
+- 🔗 **LinkedIn:** [joshygarcia](https://linkedin.com/in/joshygarcia)
+- ✉️ **Email:** joshygm@outlook.com
