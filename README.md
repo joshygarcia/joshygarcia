@@ -6,7 +6,6 @@ I'm a **Computer Science major** with a strong focus on **Web Development** and 
 ## 🚀 What I Do
 - 🖥️ **Front-End and Full-Stack Web Development**
 - 📱 **Building Digital Apps & Tools**
-- 🎬 **Content Creation**
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, HTML, CSS, SQL
