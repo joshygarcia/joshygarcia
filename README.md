@@ -13,7 +13,6 @@ I'm a **Computer Science major** with a strong focus on **Web Development** and 
 - **Backend:** Node.js, Express, Supabase
 - **Databases:** SupaBase, MySQL
 - **Tools & Platforms:** Git, GitHub, Vercel, AWS, Firebase, ADB
-- **Content Creation Tools:** Adobe Photoshop, Premiere Pro, After Effects
 
 ## 📫 Connect with Me
 - 🌐 **Portfolio:** [joshygarcia](https://joshygarcia.com)
