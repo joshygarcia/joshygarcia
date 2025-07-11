@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Joshy Garcia
 
 ## 💻 About Me
-I'm a **Computer Science major** with a strong focus on **Web Development** and a passion for **technology, business, and content creation**. I have experience building websites, managing projects, and working with various technologies to create efficient and scalable solutions.
+I'm a **Computer Science major** with a strong focus on **Web Development** and a passion for **technology, business, and content creation**. I have experience building websites, apps, tools and working with various technologies to create efficient and scalable solutions.
 
 ## 🚀 What I Do
 - 🖥️ **Front-End and Full-Stack Web Development**
